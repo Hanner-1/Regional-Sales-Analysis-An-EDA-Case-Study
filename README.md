@@ -15,7 +15,7 @@ The dataset is included within this project repository as `Regional Sales Datase
 
 ## Files Included
 - `Regional Sales Dataset.xlsx`: The raw dataset used for analysis.
-- `presentation`: A PDF presentation summarizing key findings.
+- `Regional_Sales_Analysis_Report`: A PDF presentation summarizing key findings.
 - `Regional_Sales_Analysis_Notebook.ipynb`: The Jupyter notebook containing the EDA code and results.
 - `README.md`: This README file.
 
